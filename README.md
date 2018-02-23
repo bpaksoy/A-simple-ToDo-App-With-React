@@ -8,4 +8,4 @@ Each of the branches in this repo refers to the starting point of a particular l
 ** npm install babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev
 *** npm install webpack webpack-dev-server --save-dev
 **** npm install style-loader css-loader --save-dev
-***** npm install react-router --save-d
+***** npm install react-router-dom --save-d
